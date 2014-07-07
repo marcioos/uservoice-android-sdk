@@ -3,7 +3,8 @@
 .metadata
 .DS_Store
 out
-.idea/workspace.xml
+*.iml
+.idea/
 .settings
 proguard_logs
 */build/*
